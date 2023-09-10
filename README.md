@@ -3,6 +3,8 @@
 ## Hosted Link: [View Project](https://saifulislam05.github.io/flex-box-photo-gallery/)
 ## Project Description
 The "Photo Gallery" project is a responsive web page that showcases a collection of images in a grid layout using CSS flexbox. It features a header section with a title and a gallery section displaying multiple images.
+## UI 
+![image](https://github.com/saifulislam05/flex-box-photo-gallery/assets/73392705/2bb6c97c-aed6-4a92-8723-cdf7a1590bd4)
 
 ## HTML Structure
 - `<header class="header">`: Represents the header section of the web page.
