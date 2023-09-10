@@ -9,8 +9,6 @@ The "Photo Gallery" project is a responsive web page that showcases a collection
 
 - `<div class="gallery">`: Contains a collection of images displayed in a flexbox grid.
   - `<img>`: Displays individual images within the gallery.
-    - `src`: Specifies the image source.
-    - `alt`: Provides alternative text for the image.
 
 ## CSS Styles
 
